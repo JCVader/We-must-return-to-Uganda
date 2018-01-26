@@ -1,44 +1,34 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.SceneManagement;
+﻿using UnityEngine;
+using System.Collections;
 
 public class MusicManager : MonoBehaviour
 {
     public AudioClip[] audioClip;
     private AudioSource audioSource;
 
-    private void OnEnable()
+    void Awake()
     {
-        SceneManager.sceneLoaded += OnLevelFinishedLoading;
+        DontDestroyOnLoad(gameObject); // żeby go nie niszczyło przy zmianie sceny
     }
 
-    private void OnDisable()
+    void Start()
     {
-        SceneManager.sceneLoaded -= OnLevelFinishedLoading;
-    }
-    private void Awake()
-    {
-        DontDestroyOnLoad(gameObject);
+        audioSource = GetComponent<AudioSource>(); // pobiera bieżący audio source po załadowaniu sceny
     }
 
-    private void Start()
+    void OnLevelWasLoaded(int index) // funkcja przyjmuje numer indeksu sceny w build settings
     {
-        audioSource = GetComponent<AudioSource>();
-    }
-
-    private void OnLevelFinishedLoading(Scene scene, LoadSceneMode mode)
-    {
-        AudioClip currentClip = audioClip[scene.buildIndex];
-
-        
-        if(currentClip)
+        if(audioClip[index]) // jeśli coś jest w tablicy w danym indeksie
         {
-            audioSource.clip = currentClip;
-            audioSource.loop = true;
-            audioSource.Play();
+            audioSource.clip = audioClip[index]; // przypisuje audio source dźwięk o danym indeksie
+            audioSource.loop = true; // zapętla go
+            audioSource.Play(); // i go włącza
         }
     }
 
+    public void ChangeVolume(float volume) //żeby zmieniało głośność audio source z options controllera
+    {
+        audioSource.volume = volume;
+    }
 
 }

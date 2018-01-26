@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: f8711be9bff6db24f8d2115d46cda730
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: npc_cubimal_chick__x1_race_png_1354836255_0
+    21300002: npc_cubimal_chick__x1_race_png_1354836255_1
+    21300004: npc_cubimal_chick__x1_race_png_1354836255_2
+    21300006: npc_cubimal_chick__x1_race_png_1354836255_3
+    21300008: npc_cubimal_chick__x1_race_png_1354836255_4
+    21300010: npc_cubimal_chick__x1_race_png_1354836255_5
+    21300012: npc_cubimal_chick__x1_race_png_1354836255_6
+    21300014: npc_cubimal_chick__x1_race_png_1354836255_7
+    21300016: npc_cubimal_chick__x1_race_png_1354836255_8
+    21300018: npc_cubimal_chick__x1_race_png_1354836255_9
+    21300020: npc_cubimal_chick__x1_race_png_1354836255_10
+    21300022: npc_cubimal_chick__x1_race_png_1354836255_11
+    21300024: npc_cubimal_chick__x1_race_png_1354836255_12
+    21300026: npc_cubimal_chick__x1_race_png_1354836255_13
+    21300028: npc_cubimal_chick__x1_race_png_1354836255_14
+    21300030: npc_cubimal_chick__x1_race_png_1354836255_15
+    21300032: npc_cubimal_chick__x1_race_png_1354836255_16
+    21300034: npc_cubimal_chick__x1_race_png_1354836255_17
+    21300036: npc_cubimal_chick__x1_race_png_1354836255_18
+    21300038: npc_cubimal_chick__x1_race_png_1354836255_19
+    21300040: npc_cubimal_chick__x1_race_png_1354836255_20
+    21300042: npc_cubimal_chick__x1_race_png_1354836255_21
+    21300044: npc_cubimal_chick__x1_race_png_1354836255_22
+    21300046: npc_cubimal_chick__x1_race_png_1354836255_23
+    21300048: npc_cubimal_chick__x1_race_png_1354836255_24
+    21300050: npc_cubimal_chick__x1_race_png_1354836255_25
+    21300052: npc_cubimal_chick__x1_race_png_1354836255_26
+    21300054: npc_cubimal_chick__x1_race_png_1354836255_27
+    21300056: npc_cubimal_chick__x1_race_png_1354836255_28
+    21300058: npc_cubimal_chick__x1_race_png_1354836255_29
+    21300060: npc_cubimal_chick__x1_race_png_1354836255_30
+    21300062: npc_cubimal_chick__x1_race_png_1354836255_31
+    21300064: npc_cubimal_chick__x1_race_png_1354836255_32
+    21300066: npc_cubimal_chick__x1_race_png_1354836255_33
+    21300068: npc_cubimal_chick__x1_race_png_1354836255_34
+    21300070: npc_cubimal_chick__x1_race_png_1354836255_35
+    21300072: npc_cubimal_chick__x1_race_png_1354836255_36
+    21300074: npc_cubimal_chick__x1_race_png_1354836255_37
+    21300076: npc_cubimal_chick__x1_race_png_1354836255_38
+    21300078: npc_cubimal_chick__x1_race_png_1354836255_39
+    21300080: npc_cubimal_chick__x1_race_png_1354836255_40
+    21300082: npc_cubimal_chick__x1_race_png_1354836255_41
+    21300084: npc_cubimal_chick__x1_race_png_1354836255_42
+    21300086: npc_cubimal_chick__x1_race_png_1354836255_43
+    21300088: npc_cubimal_chick__x1_race_png_1354836255_44
+    21300090: npc_cubimal_chick__x1_race_png_1354836255_45
+    21300092: npc_cubimal_chick__x1_race_png_1354836255_46
+    21300094: npc_cubimal_chick__x1_race_png_1354836255_47
+    21300096: npc_cubimal_chick__x1_race_png_1354836255_48
+    21300098: npc_cubimal_chick__x1_race_png_1354836255_49
+    21300100: npc_cubimal_chick__x1_race_png_1354836255_50
+    21300102: npc_cubimal_chick__x1_race_png_1354836255_51
+    21300104: npc_cubimal_chick__x1_race_png_1354836255_52
+    21300106: npc_cubimal_chick__x1_race_png_1354836255_53
+    21300108: npc_cubimal_chick__x1_race_png_1354836255_54
+    21300110: npc_cubimal_chick__x1_race_png_1354836255_55
+    21300112: npc_cubimal_chick__x1_race_png_1354836255_56
+    21300114: npc_cubimal_chick__x1_race_png_1354836255_57
+    21300116: npc_cubimal_chick__x1_race_png_1354836255_58
+    21300118: npc_cubimal_chick__x1_race_png_1354836255_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 133.332993
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: npc_cubimal_chick__x1_race_png_1354836255_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_10
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_11
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_13
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 64
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_26
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_27
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_32
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_33
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_34
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_35
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_36
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_37
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_39
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 32
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_43
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_45
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_47
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_49
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_50
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_58
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: npc_cubimal_chick__x1_race_png_1354836255_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

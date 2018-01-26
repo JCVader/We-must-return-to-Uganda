@@ -1,33 +1,32 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using System.Collections;
 using UnityEngine.SceneManagement;
 
 public class LevelManager : MonoBehaviour
 {
-    float time = 8.3f;
-    
-    private void Start()
+    public float loadNextScene = 1.6f;
+
+    void Start()
     {
-        if (SceneManager.GetActiveScene().buildIndex == 0)
+        if (SceneManager.GetActiveScene().buildIndex == 0) // tylko jeśli scena ma indeks 0 w build orderze
         {
-            Invoke("LoadNextLevel", time);
+            Invoke("LoadNextLevel", loadNextScene); // ładuje następny poziom po upływie danej ilości sekund
         }
     }
-    public void LoadLevel(string level)
+    public void LoadLevel(string level_name) // na ładowanie poziomów
     {
-        Debug.Log("Level loaded: " + level);
-        SceneManager.LoadScene(level);
+        SceneManager.LoadScene(level_name);
     }
 
-    public void QuitGame()
+    public void QuitApplication() // na wyjście z aplikacji
     {
-        Debug.Log("Quit requested");
-        Application.Quit();
+        Debug.Log("Wychodzę z gry."); // do testu
     }
 
-    public void LoadNextLevel()
+    public void LoadNextLevel() // ładowanie kolejnego poziomu w build orderze
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); 
     }
+	
+	
 }
